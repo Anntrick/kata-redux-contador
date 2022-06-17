@@ -23,7 +23,7 @@ const Contador = () => {
     }
 
     return (
-        <div>
+        <div> 
             <h2>Contador Redux</h2>
             
             <span>{counter}</span>

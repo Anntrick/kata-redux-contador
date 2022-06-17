@@ -11,8 +11,8 @@ const actionIncremented = () => {
 const actionDecremented = () => {
     return {
         type: 'DECREMENT',
-        payload: -1
+        payload: -1 
     }
 }
 
-export { actionIncremented, actionDecremented }
+export { actionIncremented, actionDecremented } 
